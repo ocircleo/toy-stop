@@ -1,0 +1,17 @@
+.active {
+    color: rgb(234 179 8);
+    font-weight: 500;
+}
+.pending {
+    color: rgb(18, 145, 248);
+}
+.disabled{
+    font-weight: 500;
+    color: rgb(239 68 68);
+}
+#user-div:hover > #user-name{
+    display: block;
+}
+body{
+    overflow-x: hidden;
+}
